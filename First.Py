@@ -55,7 +55,12 @@ print("Hello\t World")
 
 #xhh Character Hex Value (Searche in goolgle letter hex value)
 print("\x4F\x73")
+<<<<<<< HEAD
 print("\x4F\x73")
 print("test")
 print("MM")
+=======
+
+
+>>>>>>> c47fba66aeb4b48baf3374dfbd3d83de4139f88e
 
