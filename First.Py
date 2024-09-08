@@ -57,4 +57,5 @@ print("Hello\t World")
 print("\x4F\x73")
 print("\x4F\x73")
 print("test")
+print("MM")
 
